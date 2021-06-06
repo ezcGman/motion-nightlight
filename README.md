@@ -1,4 +1,4 @@
-![How it looks at night](https://github.com/ezcGman/motion-nightlight-pcb/blob/master/MotionNightlight.png?raw=true)
+![How it looks at night](https://github.com/ezcGman/motion-nightlight-pcb/blob/master/pictures/MotionNightlight.png?raw=true)
 
 # Motion Nightlight
 This is one of my first self designed PCBs in KiCad. It's a very simple circuit which can be utilized to create a motion nightlight with a few low power LED strips. See some examples at the bottom.
@@ -31,5 +31,5 @@ All these parts can be easily found on AliExpress (except the PCBs ;) ):
 
 # Example installation:
 The PCB sits behind the lamp. I will post a pic of this soon:
-![How it looks at night](https://github.com/ezcGman/motion-nightlight-pcb/blob/master/IMG_20210402_205721.jpg?raw=true)
-![How it looks at day time](https://github.com/ezcGman/motion-nightlight-pcb/blob/master/IMG_20210402_205732.jpg?raw=true)
+![How it looks at night](https://github.com/ezcGman/motion-nightlight-pcb/blob/master/pictures/IMG_20210402_205721.jpg?raw=true)
+![How it looks at day time](https://github.com/ezcGman/motion-nightlight-pcb/blob/master/pictures/IMG_20210402_205732.jpg?raw=true)
