@@ -30,6 +30,6 @@ All these parts can be easily found on AliExpress (except the PCBs ;) ):
   - Tweezers
 
 # Example installation:
-The PCB sits behind the lamp. I will post a pic of this soon:
-![How it looks at night](https://github.com/ezcGman/motion-nightlight-pcb/blob/master/pictures/IMG_20210402_205721.jpg?raw=true)
-![How it looks at day time](https://github.com/ezcGman/motion-nightlight-pcb/blob/master/pictures/IMG_20210402_205732.jpg?raw=true)
+![How it looks at night](https://github.com/ezcGman/motion-nightlight-pcb/blob/master/pictures/MotionNightlight-ExampleApplication-Night.jpg?raw=true)
+![How it looks at day time](https://github.com/ezcGman/motion-nightlight-pcb/blob/master/pictures/MotionNightlight-ExampleApplication-Day.jpg?raw=true)
+![Assembled PCB](https://github.com/ezcGman/motion-nightlight-pcb/blob/master/pictures/MotionNightlight-ExampleApplication-PCB.jpg?raw=true)
