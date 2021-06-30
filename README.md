@@ -14,7 +14,7 @@ All these parts can be easily found on AliExpress (except the PCBs ;) ):
 - 1x AA battery holder for THT mounting
 - The HC-SR501 PIR sensor. And because this also would act at day time, we also need:
 - An LDR, a light-dependent resistor, which can be installed into the HC-SR501 to make it only act at night time. See that great video of Clive: https://www.youtube.com/watch?v=2dxhbXHYEG0
-- 1x MOSFET. Probably most FETs (ha ha, MOSt FETs... ha ha) are fine, but I suggest the IRL3803 which has perfect specs for this application:
+- 1x MOSFET. Probably most FETs (ha ha, MOSt FETs... ha ha) are fine, just pay attention that the thermal pad is connected to **drain**, as the MOSFET bed on the PCB is connected to drain! But I suggest the IRL3803 which has perfect specs for this application:
   - Max Drain-Source Voltage of 30V
   - Gate Threshold Voltage already of 1V
 - 1x 0805 SMD capacitor of 10µF or bigger. But 0805 SMD caps are usually limited to ~40µF. So whatever u have around
