@@ -3,7 +3,10 @@
 # Motion Nightlight
 This is one of my first self designed PCBs in KiCad. It's a very simple circuit which can be utilized to create a motion nightlight with a few low power LED strips. See some examples at the bottom.
 
-### KiCad dependencies
+## Credits
+Shoutout to Quindor from QuinLED.info, the LED master himself. He tought me a lot about KiCad, PCB design and some more electrical engineering fundamentals! While I'm still miles away from being perfect, with his help I really feel confident in what I'm doing here!
+
+## KiCad dependencies
 It might happen that KiCad is missing my custom footprints. You can find and download them here and then add them to KiCad: https://github.com/ezcGman/andys-footprints
 
 ## Parts list
